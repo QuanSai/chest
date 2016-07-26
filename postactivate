@@ -7,4 +7,4 @@ echo
 echo "Project: {{PROJECT_NAME}}"
 echo
 echo
-cd /opt/buzzfeed/mono/{{PROJECT_DIR}}
+cd {{PROJECT_DIR}}
