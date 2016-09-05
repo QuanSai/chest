@@ -17,7 +17,7 @@ require("./components/home/home");
 var routesConfig = require("./routes");
 
 /* App Dependencies */
-angular.module("ttsApp", [
+angular.module("PROJECT_NAMEApp", [
   "Home",
   "ngResource",
   "ngRoute"
