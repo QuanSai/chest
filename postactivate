@@ -1,0 +1,10 @@
+#!/bin/zsh
+# This hook is run after this virtualenv is activated.
+
+clear
+echo
+echo
+echo "Project: {{PROJECT_NAME}}"
+echo
+echo
+cd {{PROJECT_DIR}}
